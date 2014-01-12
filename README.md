@@ -12,5 +12,10 @@ PACKAGE DEPENDENCIES
 
 To use the reem_moveit_config package you need the reem_description package that contains the robot's URDF. To download that package use the following repo:
 
-   git clone https://github.com/pal-robotics/reem_common.git
+   ```
+   git clone https://github.com/pal-robotics/reem_robot.git
+   ```
 
+You can find launch and configuration files for the REEM simulation in the following repo:
+
+   https://github.com/pal-robotics/reem_simulation.git
