@@ -1,0 +1,8 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: reem_description
+    relative_path: robots/reem_rgbd.urdf.xacro
+  SRDF:
+    relative_path: config/reem.srdf
+  CONFIG:
+    generated_timestamp: 1383061067
