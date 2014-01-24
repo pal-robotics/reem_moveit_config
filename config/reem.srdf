@@ -1347,6 +1347,8 @@
     <disable_collisions link1="head_2_link" link2="head_mount_xtion_link" reason="Adjacent" />
     <disable_collisions link1="head_2_link" link2="stereo_gazebo_l_stereo_camera_frame" reason="Never" />
     <disable_collisions link1="head_2_link" link2="stereo_gazebo_r_stereo_camera_frame" reason="Never" />
+    <disable_collisions link1="head_2_link" link2="stereo_gazebo_left_camera_link" reason="Never" />
+    <disable_collisions link1="head_2_link" link2="stereo_gazebo_right_camera_link" reason="Never" />
     <disable_collisions link1="head_2_link" link2="stereo_link" reason="Adjacent" />
     <disable_collisions link1="head_2_link" link2="torso_1_link" reason="Never" />
     <disable_collisions link1="head_2_link" link2="torso_2_link" reason="Default" />
