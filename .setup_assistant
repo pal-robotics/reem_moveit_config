@@ -5,4 +5,4 @@ moveit_setup_assistant_config:
   SRDF:
     relative_path: config/reem.srdf
   CONFIG:
-    generated_timestamp: 1383061067
+    generated_timestamp: 1393525565
