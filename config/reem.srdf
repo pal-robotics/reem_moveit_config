@@ -345,6 +345,7 @@
     <disable_collisions link1="arm_left_5_link" link2="hand_left_middle_1_link" reason="Never" />
     <disable_collisions link1="arm_left_5_link" link2="hand_left_middle_2_link" reason="Never" />
     <disable_collisions link1="arm_left_5_link" link2="hand_left_middle_3_link" reason="Never" />
+    <disable_collisions link1="arm_left_5_link" link2="hand_left_thumb_link" reason="Never" />
     <disable_collisions link1="arm_left_5_link" link2="stereo_link" reason="Never" />
     <disable_collisions link1="arm_left_5_link" link2="wheel_left_link" reason="Never" />
     <disable_collisions link1="arm_left_5_link" link2="wheel_right_link" reason="Never" />
