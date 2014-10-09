@@ -2,8 +2,8 @@ reem_moveit_config
 ==================
 * Author: Sammy Pfeiffer <sam.pfeiffer@pal-robotics.com>
 * Creation Date: 30/10/2013
-* Last update: 28/02/2014
-* Version: 0.2.0
+* Last update: 9/10/2014
+* Version: 0.3.0
 
 MoveIt configuration package for the REEM robot of PAL Robotics (two 7 dof arms + 2 dof torso). 
 
